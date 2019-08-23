@@ -7,4 +7,4 @@ excerpt: Get up and running with a fresh macOS Mojave install
 ---
 #### My blog post
 
-Empty post
+This is such a neat tool. Very clean and easy to work with.
